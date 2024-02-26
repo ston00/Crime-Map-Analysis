@@ -16,7 +16,7 @@
 # Developer Manual: 
 
 =======
-## Install Depencies: npm i (Express, Nodemon)
+## Install Dependicies: npm i (Express, Nodemon)
 ## Start App: npm start, Stop App: Ctrl + C or Cmd + C
 ## API: https://data.princegeorgescountymd.gov/Public-Safety/Crime-Incidents-July-2023-to-Present/xjru-idbe/data_preview
 
