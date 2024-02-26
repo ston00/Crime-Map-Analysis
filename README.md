@@ -5,7 +5,7 @@
 ## Our project will present data and some visualizations about the crime rates that are occurring in PG County
 
 # Target Audience: 
-## Everyone is welcome to look at our project 
+## Everyone is welcome to look at my project 
 
 # User Manual: 
 ## Feel free to look through our page and ask us any questions!
