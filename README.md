@@ -11,7 +11,7 @@
 
 # User Manual: 
 ## Feel free to look through our page and ask us any questions!
-## Scroll throuhg our map to see incidents and click on it for more details about any incident in PG County
+## Scroll through our map to see incidents and click on it for more details about any incident in PG County
 
 # Developer Manual: 
 
