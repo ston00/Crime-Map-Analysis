@@ -2,7 +2,7 @@
 
 =======
 # Project Description:
-## Our project will present data and some visualizations about the crime rates that are occurring in PG County
+## This project presents data and maps out data points about recent crime rates that are occurring in PG County
 
 # Target Audience: 
 ## Everyone is welcome to look at my project 
