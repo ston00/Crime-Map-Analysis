@@ -1,5 +1,3 @@
-# This is the final project for INST377
-
 # Crime Rate Analysis
 
 =======
