@@ -18,5 +18,3 @@
 ## Start App: npm start, Stop App: Ctrl + C or Cmd + C
 ## API: https://data.princegeorgescountymd.gov/Public-Safety/Crime-Incidents-July-2023-to-Present/xjru-idbe/data_preview
 
-# Group Members: 
-## Huimin Lin, Micheal Horace, Steven Ton
